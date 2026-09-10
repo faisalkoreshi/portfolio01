@@ -97,9 +97,20 @@ export const Hero = () => {
 						<div className='flex items-center gap-4 animate-fade-in animation-delay-400'>
 							<span className='text-sm text-muted-foreground'>Follow me :</span>
 							{[
-								{ icon: FaGithub, href: '#' },
-								{ icon: FaDiscord, href: '#' },
-								{ icon: FaLinkedin, href: '#' },
+								{
+									icon: FaGithub,
+									href: 'https://github.com/faisalkoreshi',
+									label: 'GitHub',
+								},
+								{ icon: FaGithub, href: '' },
+								{
+									icon: FaDiscord,
+									href: 'http://discordapp.com/users/709831289913737296',
+								},
+								{
+									icon: FaLinkedin,
+									href: 'https://linkedin.com/in/syed-faisal-ali-al-koreshi-a6325a195',
+								},
 							].map((social, idx) => (
 								<a
 									key={idx}
@@ -123,7 +134,7 @@ export const Hero = () => {
 							/>
 							<div className='relative glass rounded-3xl p-2 glow-border'>
 								<img
-									src='/public/protfolio-photo3.jpg'
+									src='/protfolio-photo3.jpg'
 									className='aspect-4/5 w-full object-cover rounded-2xl'
 									alt='Faisal Koreshi'
 								/>
