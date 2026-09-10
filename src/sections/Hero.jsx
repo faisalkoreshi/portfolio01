@@ -102,7 +102,7 @@ export const Hero = () => {
 									href: 'https://github.com/faisalkoreshi',
 									label: 'GitHub',
 								},
-								{ icon: FaGithub, href: '' },
+
 								{
 									icon: FaDiscord,
 									href: 'http://discordapp.com/users/709831289913737296',
