@@ -11,7 +11,7 @@ const testimonials = [
 	},
 	{
 		quote:
-			'Working with Pedro was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.',
+			'Working with Faisal was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.',
 		author: 'Michael Rodriguez',
 		role: 'Product Manager, Digital Solutions',
 		avatar:
@@ -19,7 +19,7 @@ const testimonials = [
 	},
 	{
 		quote:
-			"Pedro's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
+			"Faisal's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
 		author: 'Emily Watson',
 		role: 'Engineering Lead, StartUp Labs',
 		avatar:
@@ -27,7 +27,7 @@ const testimonials = [
 	},
 	{
 		quote:
-			"Not only is Pedro technically brilliant, but he's also a fantastic communicator and team player. He elevated everyone around him.",
+			"Not only is Faisal technically brilliant, but he's also a fantastic communicator and team player. He elevated everyone around him.",
 		author: 'David Kim',
 		role: 'CEO, Innovation Hub',
 		avatar:
